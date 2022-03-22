@@ -11,8 +11,10 @@ export default function Home() {
       </Head>
 
       <main>
-        <Header title="Welcome to my app!" />
+        <Header title="Reviewing Pitchfork Reviews" />
+        <Header name = "Sean Sanchez" />
         <p className="description">
+          Analysis of Pitchfork music reviews through data visualization
           Get started by editing <code>pages/index.js</code>
         </p>
       </main>
