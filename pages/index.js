@@ -12,10 +12,10 @@ export default function Home() {
 
       <main>
         <Header title="Reviewing Pitchfork Reviews" />
-        <Header name = "Sean Sanchez" />
+        <p id="s">Sean Sanchez </p>
         <p className="description">
-          Analysis of Pitchfork music reviews through data visualization
-          Get started by editing <code>pages/index.js</code>
+          Analysis of Pitchfork music reviews through data visualization.
+          (coming soon)
         </p>
       </main>
 
