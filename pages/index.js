@@ -17,10 +17,12 @@ export default function Home() {
           Analysis of Pitchfork music reviews through data visualization.
           (beta coming soon)</p>
 	
-	<p className="alpha">
-		Alpha Release Links
-		<h2>Absolute URLs</h2>
-		<p><a href="https://www.w3.org/">W3C</a></p>
+	<p id="a">alpha</p>
+	<p className="alpharelease">
+          <h2>Alpha Release Links</h2>
+	  <a href="https://vizhub.com/seansanchez951/c1d1816b4d09400484c2777ba8e96655">Lollipop Chart</a>
+	</p>
+	
  
  
       </main>
