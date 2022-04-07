@@ -15,12 +15,13 @@ export default function Home() {
         <p id="s">Sean Sanchez </p>
         <p className="description">
           Analysis of Pitchfork music reviews through data visualization.
-          (beta coming soon)
+          (beta coming soon)</p>
 	
-	Alpha Release
-		
-        </p>
-      
+	<p className"alpha">
+		Alpha Release Links
+		<h2>Absolute URLs</h2>
+		<p><a href="https://www.w3.org/">W3C</a></p>
+ 
  
       </main>
 
