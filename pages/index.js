@@ -20,9 +20,9 @@ export default function Home() {
 	
 	<p className="alpharelease">
           <h2>Alpha Release Links</h2>
-	  <a href="https://vizhub.com/seansanchez951/c1d1816b4d09400484c2777ba8e96655">Lollipop Chart in d3: Best Year in Music</a><br>
-	  <a href="https://vizhub.com/seansanchez951/96a5c03ffb7f470fbc1134ae0af2866c">Bubble Chart in d3: Music Genres Over Time</a><br>
-	  <a href="https://photos.app.goo.gl/tFVSeVNfAdS63QXk6">Treemap in RawGraphs: Average Scores Per Genre</a>
+	  <p><a href="https://vizhub.com/seansanchez951/c1d1816b4d09400484c2777ba8e96655">Lollipop Chart in d3: Best Year in Music</a></p>
+	  <p><a href="https://vizhub.com/seansanchez951/96a5c03ffb7f470fbc1134ae0af2866c">Bubble Chart in d3: Music Genres Over Time</a></p>
+	  <p><a href="https://photos.app.goo.gl/tFVSeVNfAdS63QXk6">Treemap in RawGraphs: Average Scores Per Genre</a></p>
 		
 	</p>
 	
