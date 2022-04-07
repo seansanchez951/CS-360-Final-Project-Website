@@ -17,7 +17,7 @@ export default function Home() {
           Analysis of Pitchfork music reviews through data visualization.
           (beta coming soon)</p>
 	
-	<p className"alpha">
+	<p className="alpha">
 		Alpha Release Links
 		<h2>Absolute URLs</h2>
 		<p><a href="https://www.w3.org/">W3C</a></p>
