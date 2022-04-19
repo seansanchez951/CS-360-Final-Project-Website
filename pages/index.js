@@ -25,9 +25,7 @@ export default function Home() {
 	  <p><a href="https://vizhub.com/seansanchez951/96a5c03ffb7f470fbc1134ae0af2866c">Bubble Chart in d3: Music Genres Over Time</a></p>
 	  <p><a href="https://photos.app.goo.gl/tFVSeVNfAdS63QXk6">Treemap in RawGraphs: Average Scores Per Genre</a></p>
 		  
-	<div id="my_dataviz">
-    		<p>This is the top of the div</p>
-	</div>
+	
 		
 	</p>
 	
