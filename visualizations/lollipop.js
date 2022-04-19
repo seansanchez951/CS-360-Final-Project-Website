@@ -26,7 +26,7 @@ function main() {
 // 100 , 50
 
     // Parse the Data
-    d3.csv("data/Pitchfork Average Score Per Year.csv").then(data => {
+    d3.csv(".data/Pitchfork Average Score Per Year.csv").then(data => {
 
         // console.log(data)
 
