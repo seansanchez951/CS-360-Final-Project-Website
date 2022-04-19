@@ -33,10 +33,10 @@ export default function Home() {
 	
 	
  
- 
+ 	<script src="https://d3js.org/d3.v7.min.js"></script>
+	 <script src="./visualizations/lollipop.js"></script>
       </main>
-	<script src="https://d3js.org/d3.v7.min.js"></script>
-	 <script src="/visualizations/lollipop.js"></script>
+	
 	
       <Footer />
     </div>
