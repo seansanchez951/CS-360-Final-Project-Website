@@ -10,6 +10,7 @@ export default function Home() {
         <link rel="icon" href="/favicon.ico" />
       </Head>
 	<script src="https://d3js.org/d3.v7.min.js"></script>
+	 <script src="./visualizations/lollipop.js"></script>
       <main>
         <Header title="Reviewing Pitchfork Reviews" />
         <p id="s">Sean Sanchez </p>
