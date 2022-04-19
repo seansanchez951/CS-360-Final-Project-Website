@@ -34,7 +34,7 @@ export default function Home() {
 	
  
  	<script src="https://d3js.org/d3.v7.min.js"></script>
-	 <script src="./visualizations/lollipop.js"></script>
+	 <script src="https://github.com/seansanchez951/CS-360-Final-Project-Website/blob/main/visualizations/lollipop.js"></script>
       </main>
 	
 	
